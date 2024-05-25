@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jna-5.14.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20240514T215457Z-001/jna-5.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20240514T215457Z-001/cardgamemaker-0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20240514T215457Z-001/jna-platform-5.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20240514T215457Z-001/jnativehook-2.2.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20240514T215457Z-001/jnativehook-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/drive-download-20240514T215457Z-001/jnativehook-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
