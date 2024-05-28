@@ -6,10 +6,13 @@ public class TabuleiroDomino extends Tabuleiro {
 
     //Fundo do Tabuleiro
     static final StringColorida fundoTabuleiro = new StringColorida("▣", "Verde");
+
+
     static final StringColorida vazio = new StringColorida(" ", "Branco");
 
 
     //Cordenadas Numeros
+    static final StringColorida zero = new StringColorida("0", "Branco");
     static final StringColorida um = new StringColorida("1", "Branco");
     static final StringColorida dois = new StringColorida("2", "Branco");
     static final StringColorida tres = new StringColorida("3", "Branco");
@@ -25,38 +28,49 @@ public class TabuleiroDomino extends Tabuleiro {
     static final StringColorida treze = new StringColorida("13", "Branco");
     static final StringColorida quatroze = new StringColorida("14", "Branco");
 
+
     //Cartas de Domino
     static final CartasDomino fundo = new CartasDomino(fundoTabuleiro);
 
 
     //Tabuleiro
-    public TabuleiroDomino() {
+    public TabuleiroDomino () {
         super(10, 15, fundo);
 
-        setFundo(1, 0, new CartasDomino (fundoTabuleiro));
-        setFundo(1, 1, new CartasDomino (fundoTabuleiro));
-        setFundo(1, 2, new CartasDomino (fundoTabuleiro));
-        setFundo(1, 3, new CartasDomino (fundoTabuleiro));
-        setFundo(1, 4, new CartasDomino (fundoTabuleiro));
+        setFundo(1, 1, new CartasDomino(fundoTabuleiro));
+        setFundo(1, 2, new CartasDomino(fundoTabuleiro));
+        setFundo(1, 3, new CartasDomino(fundoTabuleiro));
+        setFundo(1, 4, new CartasDomino(fundoTabuleiro));
+        setFundo(1, 5, new CartasDomino(fundoTabuleiro));
 
 
-        setFundo(0, 1, new CartasDomino(vazio));
-        setFundo(0, 2, new CartasDomino(um));
-        setFundo(0, 3, new CartasDomino(dois));
-        setFundo(0, 4, new CartasDomino(tres));
-        setFundo(0, 5, new CartasDomino(quatro));
-        setFundo(0, 6, new CartasDomino(cinco));
-        setFundo(0, 7, new CartasDomino(seis));
-        setFundo(0, 8, new CartasDomino(sete));
-        setFundo(0, 9, new CartasDomino(oito));
-        setFundo(0, 10, new CartasDomino(nove));
-        setFundo(0, 11, new CartasDomino(dez));
-        setFundo(0, 12, new CartasDomino(onze));
-        setFundo(0, 13, new CartasDomino(doze));
-        setFundo(0, 14, new CartasDomino(treze));
-        setFundo(0, 15, new CartasDomino(quatroze));
+        setFundo(0, 0, new CartasDomino(vazio));
+        setFundo(0, 1, new CartasDomino(um));
+        setFundo(0, 2, new CartasDomino(dois));
+        setFundo(0, 3, new CartasDomino(tres));
+        setFundo(0, 4, new CartasDomino(quatro));
+        setFundo(0, 5, new CartasDomino(cinco));
+        setFundo(0, 6, new CartasDomino(seis));
+        setFundo(0, 7, new CartasDomino(sete));
+        setFundo(0, 8, new CartasDomino(oito));
+        setFundo(0, 9, new CartasDomino(nove));
+        setFundo(1, 0, new CartasDomino(um));
+        setFundo(2, 0, new CartasDomino(dois));
+        setFundo(3, 0, new CartasDomino(tres));
+        setFundo(4, 0, new CartasDomino(quatro));
+        setFundo(5, 0, new CartasDomino(cinco));
+        setFundo(6, 0, new CartasDomino(seis));
+        setFundo(7, 0, new CartasDomino(sete));
+        setFundo(8, 0, new CartasDomino(oito));
+        setFundo(9,0, new CartasDomino(nove));
+        /*setFundo(0, 10, new CartasDomino(dez));
+        /*setFundo(0, 11, new CartasDomino(onze));
+        setFundo(0, 12, new CartasDomino(doze));
+        setFundo(0, 13, new CartasDomino(treze));*/
+
+
+
 
 
     }
-
 }
