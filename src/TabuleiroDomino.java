@@ -7,9 +7,7 @@ public class TabuleiroDomino extends Tabuleiro {
     //Fundo do Tabuleiro
     static final StringColorida fundoTabuleiro = new StringColorida("▣▣", "Verde");
 
-
     static final StringColorida vazio = new StringColorida("  ", "Branco");
-
 
     //Cordenadas Numeros
     static final StringColorida zero = new StringColorida(" 0", "Branco");
@@ -64,6 +62,7 @@ public class TabuleiroDomino extends Tabuleiro {
         setFundo(7, 0, new CartasDomino(sete));
         setFundo(8, 0, new CartasDomino(oito));
         setFundo(9,0, new CartasDomino(nove));
+
 
 
     }

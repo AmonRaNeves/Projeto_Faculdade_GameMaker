@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class PilhaDecartas {
+import mecanicas.PilhaDeCartas;
+
+public class PilhaDecartas extends PilhaDeCartas {
+    public PilhaDecartas(){
+
+    }
+
 }

@@ -1,3 +1,4 @@
+import console.Console;
 import cores.StringColorida;
 import mecanicas.Carta;
 
@@ -5,10 +6,7 @@ public class CartasDomino extends Carta {
 
     static final StringColorida CartaDomino = new StringColorida("  ", "Azul");
     static final StringColorida CartaDomin00 = new StringColorida("00", "Azul");
-
-
-
-    static final StringColorida CartaDomino01 = new StringColorida("01", "Azul");
+    static final StringColorida CartaDomino01 = new StringColorida("\n01", "Azul");
     static final StringColorida CartaDomino02 = new StringColorida("02", "Azul");
     static final StringColorida CartaDomino03 = new StringColorida("03", "Azul");
     static final StringColorida CartaDomino04 = new StringColorida("04", "Azul");
@@ -25,7 +23,6 @@ public class CartasDomino extends Carta {
     static final StringColorida CartaDomino21 = new StringColorida("21", "Azul");
     static final StringColorida CartaDomino22 = new StringColorida("22", "Azul");
     static final StringColorida CartaDomino23 = new StringColorida("23", "Azul");
-
     static final StringColorida CartaDomino24 = new StringColorida("24", "Azul");
     static final StringColorida CartaDomino25 = new StringColorida("25", "Azul");
     static final StringColorida CartaDomino26 = new StringColorida("26", "Azul");
@@ -58,6 +55,8 @@ public class CartasDomino extends Carta {
     static final StringColorida CartaDomino65 = new StringColorida("65", "Azul");
     static final StringColorida CartaDomino66 = new StringColorida("66", "Azul");
 
+
+
     //fundo
     static final StringColorida fundo = new StringColorida(" ▣","Verde");
 
@@ -65,4 +64,5 @@ public class CartasDomino extends Carta {
 
         super(frente);
     }
+
 }
