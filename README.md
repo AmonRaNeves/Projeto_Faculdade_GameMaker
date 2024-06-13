@@ -7,6 +7,8 @@
 
 O projeto consiste em escolher um jogo entre as opções apresentadas e utilizando a biblioteca que o professor diponibilizou chamada Gamemaker.
 
+![Dominó](https://github.com/AmonRaNeves/Projeto_Faculdade_GameMaker/assets/134459111/90e269ce-d51f-4479-aee2-72fe2fa3fbd8)
+![Dominó jogando](https://github.com/AmonRaNeves/Projeto_Faculdade_GameMaker/assets/134459111/d5d751a0-aba1-4d54-b219-a20f065d8595)
 
 Descrição do projeto 
 Dominó foi o tema escolhido e feito em java, orientado a objeto.
