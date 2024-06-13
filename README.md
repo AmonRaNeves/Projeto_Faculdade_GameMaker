@@ -26,7 +26,7 @@ Coloque de forma manual as peças e não trapaceie, isso é feio.
 ---Sobre o(a) autor(a)---:
 
 Sou Amon-Rá tenho 20 anos e estutande de Ciência da computação, esse trabalho me ajudou bastantes a evoluir como programador.
-Aprendendo com meus erros e com a ajudo de meu professor consegui progredir bastante.
+Aprendendo com meus erros e com a ajuda de meu professor Gabriel, consegui progredir bastante.
 Vou continuar a melhorar esse código e aperfeiçoar minha lógica de programação.
 
 🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲🎲
