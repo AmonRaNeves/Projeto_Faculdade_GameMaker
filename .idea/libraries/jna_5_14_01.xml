@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jna-5.14.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lib-20240611T000548Z-001/lib/jna-5.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib-20240611T000548Z-001/lib/jna-platform-5.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib-20240611T000548Z-001/lib/cardgamemaker-0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib-20240611T000548Z-001/lib/jnativehook-2.2.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../lib-20240611T000548Z-001/lib/jnativehook-2.2.2.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../lib-20240611T000548Z-001/lib/jnativehook-2.2.2-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>

@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d12f9b8-f660-4a7f-964a-4a4fdc1162d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PilhaDecartas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backend/CartasDomino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backend/FundoTabuleiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backend/Jogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backend/TabuleiroDomino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frontend/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CartasDomino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CartasDomino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jogo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TabuleiroDomino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TabuleiroDomino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TabuleiroPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabalhoGameMaker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TrabalhoGameMaker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CartasDomino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jogo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PilhaDecartas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/PilhaDecartas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TabuleiroDomino.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,13 +26,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Principal.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/backend/CartasDomino.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/backend/FundoTabuleiro.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/backend/Jogo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/backend/PilhaDecartas.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/backend/TabuleiroDomino.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/frontend/Menu.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -48,10 +63,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Amonr/Downloads/drive-download-20240514T215457Z-001/jnativehook-2.2.2.jar",
+    "last_opened_file_path": "C:/Users/Amonr/Downloads/JogoHanoi/Programas Hanoi/TorreHanoi/src",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -72,13 +88,6 @@
         <item itemvalue="Application.Principal" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
