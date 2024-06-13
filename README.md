@@ -15,12 +15,12 @@ O projeto consiste em escolher um jogo entre as opções apresentadas e utilizan
 Descrição do projeto 
 Dominó foi o tema escolhido e feito em java, orientado a objeto.
 
-Funcionalidades Principais
+### Funcionalidades Principais
 
-Menu Principal:
+### Menu Principal:
 O jogo possui um menu principal interativo com iniciar jogo, Carregar jogo e sair do jogo.
 
-Modo de Jogo:
+### Modo de Jogo:
 Jogo feito para jogar Multiplayer com algum amigo.
 A interface é projetada para ser facil de entender e usar.
 
