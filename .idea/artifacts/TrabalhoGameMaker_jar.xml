@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TrabalhoGameMaker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TrabalhoGameMaker_jar</output-path>
+    <root id="archive" name="TrabalhoGameMaker.jar">
+      <element id="module-output" name="TrabalhoGameMaker" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/drive-download-20240514T215457Z-001/jna-5.14.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/drive-download-20240514T215457Z-001/cardgamemaker-0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/drive-download-20240514T215457Z-001/jna-platform-5.14.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/drive-download-20240514T215457Z-001/jnativehook-2.2.2-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/drive-download-20240514T215457Z-001/jnativehook-2.2.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
